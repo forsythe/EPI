@@ -5,5 +5,5 @@
 * 5.7 PowerXY.java
 * 5.8 ReverseDigits.java
 ## Pseudocode
-* 5.3
-* 5.11
+* 5.3 ReverseBits.java
+* 5.11 RectangleIntersection.java
