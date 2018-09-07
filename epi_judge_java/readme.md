@@ -9,3 +9,18 @@
 
 ## Pseudocode
 * 5.3 ReverseBits.java
+
+# Chapter 6: Arrays
+## Code
+* 6.0 EvenOddArray.java
+* 6.1 DutchNationalFlag.java
+* 6.6 BuyAndSellStock.java
+* 6.11
+* 6.17
+* 6.2
+* 6.16
+* 6.5
+* 6.8
+* 6.3
+* 6.9
+* 6.14
