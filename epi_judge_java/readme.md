@@ -15,7 +15,7 @@
 * 6.0 EvenOddArray.java
 * 6.1 DutchNationalFlag.java
 * 6.6 BuyAndSellStock.java
-* 6.11
+* 6.11 
 * 6.17
 * 6.2
 * 6.16
