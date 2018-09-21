@@ -20,7 +20,7 @@
 * 6.2 IntAsArrayIncrement.java
 * 6.5 SortedArrayRemoveDups.java
 * 6.8 PrimeSieve.java
-* 6.3
+* 6.3 IntAsArrayMultiply.java
 * 6.9
 * 6.14
 ## Pseudocode
