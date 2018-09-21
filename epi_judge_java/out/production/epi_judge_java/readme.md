@@ -18,9 +18,10 @@
 * 6.11 OfflineSampling.java
 * 6.17 SpiralOrderingSegments.java
 * 6.2 IntAsArrayIncrement.java
-* 6.16
 * 6.5
 * 6.8
 * 6.3
 * 6.9
 * 6.14
+## Pseudocode
+* 6.16 IsValidSudoku.java
