@@ -21,7 +21,7 @@
 * 6.5 SortedArrayRemoveDups.java
 * 6.8 PrimeSieve.java
 * 6.3 IntAsArrayMultiply.java
-* 6.9
+* 6.9 ApplyPermutation.java
 * 6.14
 ## Pseudocode
 * 6.16 IsValidSudoku.java
