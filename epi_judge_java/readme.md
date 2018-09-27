@@ -12,7 +12,6 @@
 
 # Chapter 6: Arrays
 ## Code
-* 6.0 EvenOddArray.java
 * 6.1 DutchNationalFlag.java
 * 6.6 BuyAndSellStock.java
 * 6.11 OfflineSampling.java
@@ -22,6 +21,7 @@
 * 6.8 PrimeSieve.java
 * 6.3 IntAsArrayMultiply.java
 * 6.9 ApplyPermutation.java
-* 6.14
+* 6.14 RandomSubset.java
 ## Pseudocode
+* 6.0 EvenOddArray.javar
 * 6.16 IsValidSudoku.java
