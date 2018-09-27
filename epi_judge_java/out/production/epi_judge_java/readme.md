@@ -21,7 +21,20 @@
 * 6.8 PrimeSieve.java
 * 6.3 IntAsArrayMultiply.java
 * 6.9 ApplyPermutation.java
-* 6.14
+* 6.14 RandomSubset.java
 ## Pseudocode
 * 6.0 EvenOddArray.javar
 * 6.16 IsValidSudoku.java
+
+# Chapter 7: Strings
+## Code
+* 7.1 
+* 7.2
+* 7.4
+* 7.5
+* 7.6
+* 7.7
+* 7.8
+* 7.9
+* 7.11
+## Pseudocode

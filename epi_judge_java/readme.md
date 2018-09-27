@@ -25,3 +25,16 @@
 ## Pseudocode
 * 6.0 EvenOddArray.javar
 * 6.16 IsValidSudoku.java
+
+# Chapter 7: Strings
+## Code
+* 7.1 StringIntegerInterconversion.java
+* 7.2
+* 7.4
+* 7.5
+* 7.6
+* 7.7
+* 7.8
+* 7.9
+* 7.11
+## Pseudocode
